@@ -1,0 +1,15 @@
+{
+  "name": "web3-eth-approvals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPLV2",
+  "dependencies": {
+    "web3": "^1.7.3",
+    "yargs": "^17.5.1"
+  }
+}
