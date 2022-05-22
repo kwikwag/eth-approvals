@@ -9,6 +9,7 @@
   "author": "",
   "license": "GPLV2",
   "dependencies": {
+    "axios": "^0.27.2",
     "web3": "^1.7.3",
     "yargs": "^17.5.1"
   }
